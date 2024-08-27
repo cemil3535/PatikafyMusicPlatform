@@ -1,4 +1,4 @@
-# PatikafyMusicPlatform
+# Patikafy Music Platform
 Şarkıcı Adı ve Soyadı       Yaptığı Müzik Türü                       Çıkış Yılı              Albüm Satışları
 Ajda Pekkan                     Pop                                     1968                Yaklaşık 20 milyon    
 Sezen Aksu                      Türk Halk Müziği/Pop                   1971                 Yaklaşık 10 milyon
